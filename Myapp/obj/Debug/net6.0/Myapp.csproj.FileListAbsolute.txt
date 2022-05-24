@@ -1,0 +1,15 @@
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\bin\Debug\net6.0\Myapp.exe
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\bin\Debug\net6.0\Myapp.deps.json
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\bin\Debug\net6.0\Myapp.runtimeconfig.json
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\bin\Debug\net6.0\Myapp.dll
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\bin\Debug\net6.0\Myapp.pdb
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfo.cs
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.dll
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\refint\Myapp.dll
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.pdb
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\Myapp.genruntimeconfig.cache
+C:\Users\LENOVO\tl1\tp06-2022-Samperc\Myapp\obj\Debug\net6.0\ref\Myapp.dll
